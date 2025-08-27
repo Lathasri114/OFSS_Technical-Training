@@ -365,4 +365,3 @@ NOCYCLE;
 ---50) Drop the above created sequences.
 DROP SEQUENCE member_seq;
 DROP SEQUENCE book_seq;
-
